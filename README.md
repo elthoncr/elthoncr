@@ -16,7 +16,7 @@
   <img align="center" alt="Elthon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Elthon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elthon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Elthon-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/261298_4KmJv0BR.png">
+  <img align="right" alt="Elthon-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/937130589889376327/937315256659767306/download20220100085603.png">
 </div>
   
   ##
