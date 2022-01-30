@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: elthon.c.r@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/elthoncr">
