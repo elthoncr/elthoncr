@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Elthon Rodrigues! 👋
 
-- 🔭 Hoje trabalho como Analista de Suporte
+- 🔭 Hoje trabalho como Analista de Suporte de T.I.
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: elthon.c.r@gmail.com
 - 😄 Pronomes: ele/dele
