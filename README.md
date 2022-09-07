@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Elthon Rodrigues! 👋
 
-- 🔭 Hoje trabalho como Analista de Suporte de T.I.
+- 🔭 Hoje trabalho como Analista de Suporte Pleno.
 - 🏫 7/8 Bacharelado em Ciência da Computação pela Unifaccamp
 - 🌱 Estudando Java
 - 📫 Contate-me no email: elthon.c.r@gmail.com
