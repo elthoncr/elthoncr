@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Elthon Rodrigues! 👋
 
 - 🔭 Hoje trabalho como Analista de Suporte Pleno.
-- 🏫 7/8 Bacharelado em Ciência da Computação pela Unifaccamp
-- 🌱 Estudando Java
+- 🏫 Bacharelado em Ciência da Computação pela Unifaccamp
+- 🌱 Estudando Python atualmente
 - 📫 Contate-me no email: elthon.c.r@gmail.com
 - 😄 Pronomes: ele/dele
 
