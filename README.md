@@ -1,8 +1,27 @@
-### Olá! Eu sou o Elthon Rodrigues! 👋
+### Olá, meu nome é Elthon! Sou um Analista de Suporte Pleno de TI com uma paixão por desenvolvimento de software, automação de processos e análise de dados. 🎯 Minha experiência vai além do suporte técnico, incluindo o desenvolvimento de soluções inovadoras para melhorar a eficiência de processos de TI e a experiência dos usuários.  👋
+
+💼 O que eu faço
+🔧 Automação
+Desenvolvimento de robôs RPA para tarefas repetitivas.
+Criação de scripts em Python para monitoramento e manutenção de sistemas.
+
+📊 Banco de Dados
+Extração e manipulação de dados com SQL em bancos Oracle e Consinco.
+Desenvolvimento de relatórios e consultas personalizadas para suporte ao negócio.
+
+💻 Soluções de Software
+Criação de aplicativos Python para conectar usuários a redes Wi-Fi corporativas e atualizar sistemas de PDV.
+Monitoramento e otimização de sistemas Visual Mix.
+
+🎯 Projetos em destaque
+RPA para Importação de Pesquisas: Automatiza a importação de dados no sistema Consinco.
+Monitoramento de Equipamentos: Ferramenta para verificar status de dispositivos e atualizar configurações de forma eficiente.
+Monitoramento de Consultas de Preços: Integradados ao sistema Visual Mix.
 
 - 🔭 Hoje trabalho como Analista de Suporte Pleno.
+- 🏫 Cursando Pós-Graduação em Análise de Dados pela Descomplica
 - 🏫 Bacharelado em Ciência da Computação pela Unifaccamp
-- 🌱 Estudando Python atualmente
+- 🌱 Desenvolvendo Soluções com Python atualmente
 - 📫 Contate-me no email: elthon.c.r@gmail.com
 - 😄 Pronomes: ele/dele
 
