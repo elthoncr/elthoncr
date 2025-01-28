@@ -1,6 +1,9 @@
-### Olá, meu nome é Elthon! Sou um Analista de Suporte Pleno de TI com uma paixão por desenvolvimento de software, automação de processos e análise de dados. 🎯 Minha experiência vai além do suporte técnico, incluindo o desenvolvimento de soluções inovadoras para melhorar a eficiência de processos de TI e a experiência dos usuários.  👋
+### Olá, meu nome é Elthon! Sou um Analista de Suporte Pleno de TI com uma paixão por desenvolvimento de software, automação de processos e análise de dados. 
 
-💼 O que eu faço
+🎯 Minha experiência vai além do suporte técnico, incluindo o desenvolvimento de soluções inovadoras para melhorar a eficiência de processos de TI e a experiência dos usuários.  👋
+
+💼 O que eu faço:
+
 🔧 Automação
 Desenvolvimento de robôs RPA para tarefas repetitivas.
 Criação de scripts em Python para monitoramento e manutenção de sistemas.
